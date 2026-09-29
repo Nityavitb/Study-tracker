@@ -63,7 +63,6 @@ Study-Hours-Tracker/
 | `goals.py`         | Calculates study progress and checks study goals     |
 | `checklist.py`     | Handles the general and subject-wise to-do lists     |
 | `reports.py`       | Generates the final study-session report             |
-| `validation.py`    | Contains validation and error-handling functions     |
 | `test_tracker.py`  | Contains basic tests for study-progress calculations |
 
 ---
